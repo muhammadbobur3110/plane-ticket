@@ -127,6 +127,9 @@ only screen and (                min-resolution: 2dppx) {
   padding-left: 30px;
 }
 
+.radio-label:hover {
+  background-color: #ddd;
+}
 
 .text {
   margin: 0;
